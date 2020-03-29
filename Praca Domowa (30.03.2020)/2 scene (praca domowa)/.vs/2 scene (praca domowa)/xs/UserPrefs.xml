@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{5554A837-6BA7-B817-99AD-7C9F89292229}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MoveMonster.cs">
+    <Files>
+      <File FileName="Assets/Player.cs" Line="37" Column="2" />
+      <File FileName="Assets/MoveMonster.cs" Line="23" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ae10a334-045d-4e53-a343-59977a2f9c7d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

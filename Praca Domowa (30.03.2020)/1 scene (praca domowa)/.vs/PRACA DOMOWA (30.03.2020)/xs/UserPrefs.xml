@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{7725E5DB-484B-9D37-ECF6-F282176048E7}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Move.cs">
+    <Files>
+      <File FileName="Assets/Gracz.cs" Line="7" Column="5" />
+      <File FileName="Assets/Move.cs" Line="7" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ae10a334-045d-4e53-a343-59977a2f9c7d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
